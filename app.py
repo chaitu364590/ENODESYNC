@@ -1,8 +1,5 @@
 #from asyncio import log
-import cv2
 import streamlit as st
-import cv2.aruco as aruco
-import numpy as np
 st.title("ENODESYNC")
 st.caption("AR FOR IOT")
 st.markdown("---")
